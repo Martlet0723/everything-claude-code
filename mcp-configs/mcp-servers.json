@@ -91,7 +91,7 @@
     },
     "insaits": {
       "command": "python3",
-      "args": ["-m", "insa_its.mcp_server"],
+      "args": ["-m", "insa_its.mcp.server"],
       "description": "AI-to-AI security monitoring — anomaly detection, credential exposure, hallucination checks, forensic tracing. 23 anomaly types, OWASP MCP Top 10 coverage. 100% local. Install: pip install insa-its"
     },
     "playwright": {
